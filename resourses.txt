@@ -1,0 +1,7 @@
+Primary Tutorial: https://www.gatsbyjs.org/tutorial
+Gatsby Starters: https://www.gatsbyjs.org/starters
+Starter Instructions: https://github.com/gatsbyjs/gatsby-starter-default
+Gatsby Plugins: https://www.gatsbyjs.org/plugins/
+Typography: http://kyleamathews.github.io/typography.js/
+Typography Themes: https://github.com/KyleAMathews/typography.js#published-typographyjs-themes
+Building your First Webpage: https://learn.shayhowe.com/html-css/building-your-first-web-page/
